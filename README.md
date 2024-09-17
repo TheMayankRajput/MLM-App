@@ -4,7 +4,7 @@ A new Flutter project.
 
 To run the app on mobile: 
 
-Install the 'app-release.apk' on your device.
+Go to 'main' Branch and Install 'MLM-App.apk' on your device.
 
 To run the app using PC:
 1. Pull the files from github to your computer.
