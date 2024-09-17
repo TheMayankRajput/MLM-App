@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+To run the app on mobile: 
 
-This project is a starting point for a Flutter application.
+Install the 'app-release.apk' on your device.
 
-A few resources to get you started if this is your first Flutter project:
+To run the app using PC:
+1. Pull the files from github to your computer.
+2. Start an android emulator or connect a device with USB debugging enabled.
+3. Go to lib->main.dart.
+4. click on run and debug.
+5. And the app will start.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Note: Make sure that Flutter is installed on your device
